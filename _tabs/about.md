@@ -14,3 +14,7 @@ order: 4
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 <span id="busuanzi_container_site_uv">🎉您是本站第：<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i>  </span> 个访客
+
+  <span id="busuanzi_container_site_uv" style="color:#aaa">
+      <i class="fa fa-user"></i> 总访问人数: <span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>
+  </span>
