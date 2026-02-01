@@ -2,7 +2,7 @@
 title: buildroot2018 升级 mesa3d
 date: 2025-12-24 20:40:00 +0800
 categories: [Linux]
-tags: [Linux buildroot mesa3d ]
+tags: [Linux,buildroot,mesa3d ]
 ---
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
